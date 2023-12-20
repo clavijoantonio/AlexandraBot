@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="javafx.scene.layout.TilePane"/>
+    <fullyQualifiedTypeName name="javafx.scene.Group"/>
+    <fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
+    <fullyQualifiedTypeName name="javafx.scene.shape.Rectangle"/>
+    <fullyQualifiedTypeName name="javafx.scene.paint.Stop"/>
+    <fullyQualifiedTypeName name="javafx.scene.paint.LinearGradient"/>
+    <fullyQualifiedTypeName name="java.awt.MultipleGradientPaint.CycleMethod"/>
+    <fullyQualifiedTypeName name="javafx.scene.paint.CycleMethod"/>
+    <fullyQualifiedTypeName name="java.awt.Polygon"/>
+    <fullyQualifiedTypeName name="javafx.scene.shape.Polygon"/>
+    <fullyQualifiedTypeName name="javafx.scene.image.Image"/>
+    <fullyQualifiedTypeName name="javafx.scene.image.ImageView"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="org.telegram.telegrambots.bots.TelegramLongPollingBot"/>
+    <fullyQualifiedTypeName name="org.telegram.telegrambots.meta.api.methods.send.SendMessage"/>
+    <fullyQualifiedTypeName name="Handles.handleTesting"/>
+    <fullyQualifiedTypeName name="org.telegram.telegrambots.meta.TelegramBotsApi"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ser.std.StdKeySerializers.Default"/>
+    <fullyQualifiedTypeName name="org.telegram.telegrambots.updatesreceivers.DefaultBotSession"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,24 @@
+package com.alexandra.DemoChatBot.models.services;
+
+import org.springframework.stereotype.Service;
+import org.telegram.telegrambots.meta.TelegramBotsApi;
+
+import com.fasterxml.jackson.databind.ser.std.StdKeySerializers.Default;
+
+import Handles.handleTesting;
+
+@Service
+public class chatBotServise {
+
+	public chatBotServise() {
+		try {
+			handleTesting handle= new handleTesting();
+			TelegramBotsApi telegramBot= new TelegramBotsApi(Default.class);
+		}catch(Exception e) {
+			e.printStackTrace();
+		}
+	
+	}
+
+
+}
